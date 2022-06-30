@@ -11,4 +11,8 @@ Depedencies:
 - ESX
 - skinchanger
 
+Features:
+- There are 2 types of body armor. A light and a heavy body armor
+- There is an animation when using the body armor
+
 For support and updates join our Discord Server: dsc.gg/primeScripts
